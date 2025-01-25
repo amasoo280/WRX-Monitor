@@ -1,6 +1,6 @@
 ﻿# CarScraper
 This is an optimized version of a Car monitor that I tweaked for Subaru. A python scrapter that monitors car listings on carmax and sends results to a discord webhook.
-I built this entire in Python, using the Requests library and the CarmMax API. 
+I built this entire in Python, using the Requests library and the CarMax API. 
 ## ![This is an example of what a successful sent webhook should look like!](https://raw.githubusercontent.com/amasoo280/WRX-Monitor/main/WRXMonitor.PNG)
 ## Features
 - Scrapes new Subaru WRX listings from CarMax.
