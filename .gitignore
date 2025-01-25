@@ -1,0 +1,12 @@
+# Ignore environment variables and sensitive files
+.env
+sample.env
+sent_listings.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VS Code settings (optional)
+.vscode/
