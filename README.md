@@ -42,4 +42,3 @@ Head to any discord server which you have webhook access in and follow these ste
 - Webhook
 - New webhook
 - Paste webhook in to the .env DISCORD_WEBHOOK_URL
-![image](https://github.com/user-attachments/assets/1cc47a20-41ef-404d-aeb5-4520586f75f9)
