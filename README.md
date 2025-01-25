@@ -43,4 +43,6 @@ Head to any discord server which you have webhook access in and follow these ste
 - Webhook
 - New webhook
 - Paste webhook in to the .env DISCORD_WEBHOOK_URL
+
+
 ![This is an example of what a successful sent webhook should look like!](WRXMonitor.PNG)
